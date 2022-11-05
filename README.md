@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin/in/gajendra-kumar-cs
+- 📫 How to reach me https://linkedin/in/gajendra-kumar-cs
 
 <!---
 GAJENDRAKUMAR123/GAJENDRAKUMAR123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
